@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jie Bao | Zheyi Pan</title>
+    <link>/author/jie-bao/</link>
+      <atom:link href="/author/jie-bao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jie Bao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Jie Bao</title>
+      <link>/author/jie-bao/</link>
+    </image>
+    
+    <item>
+      <title>TrajGuard: A Comprehensive Trajectory Copyright Protection Scheme</title>
+      <link>/publication/pan2019trajguard/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pan2019trajguard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

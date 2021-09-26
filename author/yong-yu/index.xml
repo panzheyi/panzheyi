@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yong Yu | Zheyi Pan</title>
+    <link>/author/yong-yu/</link>
+      <atom:link href="/author/yong-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yong Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yong Yu</title>
+      <link>/author/yong-yu/</link>
+    </image>
+    
+    <item>
+      <title>AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graphs</title>
+      <link>/publication/pan2021autostg/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pan2021autostg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Meta Learning for Urban Traffic Prediction</title>
+      <link>/publication/pan2020spatio/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pan2020spatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Factorization for Spatio-Temporal Neural Networks with Applications to Urban Flow Prediction</title>
+      <link>/publication/pan2019matrix/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pan2019matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TrajGuard: A Comprehensive Trajectory Copyright Protection Scheme</title>
+      <link>/publication/pan2019trajguard/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pan2019trajguard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning</title>
+      <link>/publication/pan2019urban/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pan2019urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIFT: Building an Internet of Safe Things</title>
+      <link>/publication/liang2015sift/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/liang2015sift/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
